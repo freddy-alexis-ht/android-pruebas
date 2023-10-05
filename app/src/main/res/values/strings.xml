@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="app_name">MyApps1</string>
+
+    <string name="menu_title">My Apps</string>
+    <string name="menu_btnApp1Quiz1">Balotario 1</string>
+    <string name="menu_btnApp2Quiz1Compose">Balotario 1 (Compose)</string>
+    <string name="menu_btnApp3Prueba1Compose">Prueba 1 (Compose)</string>
+    <string name="menu_btnApp4RadioButton1Compose">RadioButton 1 (Compose)</string>
+    <string name="menu_btnApp5Dialog1Compose">Dialog 1 (Compose)</string>
+    <string name="menu_btnApp6Navigation1Compose">Navigation 1 (Compose)</string>
+
+    <string name="app1_tvTitle">Balotario</string>
+    <string name="app1_tvQuestion">¿De qué color es Domingo?</string>
+    <string name="app1_rbWhite">Blanco</string>
+    <string name="app1_rbBlack">Negro</string>
+    <string name="app1_rbBrown">Marrón</string>
+    <string name="app1_btnSend">Enviar</string>
+    <string name="app1_tvResult">Resultado</string>
+    <string name="app1_tvAnswer">Correcto/Incorrecto</string>
+    <string name="app1_btnGoBack">Volver</string>
+    <string name="title_activity_quiz">QuizActivity</string>
+
+    <string name="app2_textTitle">Balotario</string>
+    <string name="app2_textQuestion">¿De qué color es Domingo?</string>
+    <string name="app2_rbWhite">Blanco</string>
+    <string name="app2_rbBlack">Negro</string>
+    <string name="app2_rbBrown">Marrón</string>
+    <string name="app2_btnSend">Enviar</string>
+    <string name="app2_textResult">Resultado</string>
+    <string name="app2_textAnswer">Correcto/Incorrecto</string>
+    <string name="app2_btnGoBack">Volver</string>
+    <string name="title_activity_prueba1">Prueba1Activity</string>
+    <string name="title_activity_radio_button1">RadioButton1Activity</string>
+    <string name="title_activity_dialog1">Dialog1Activity</string>
+    <string name="title_activity_navigation1">Navigation1Activity</string>
+    <!--    <string name="title_activity_quiz">QuizActivity</string>-->
+
+</resources>

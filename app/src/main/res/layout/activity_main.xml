@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="60dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_title"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_marginVertical="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnApp1Quiz1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="8dp"
+        android:text="@string/menu_btnApp1Quiz1" />
+
+    <Button
+        android:id="@+id/btnApp2Quiz1Compose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="8dp"
+        android:text="@string/menu_btnApp2Quiz1Compose" />
+
+    <Button
+        android:id="@+id/btnApp3Prueba1Compose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="8dp"
+        android:text="@string/menu_btnApp3Prueba1Compose" />
+
+    <Button
+        android:id="@+id/btnApp4RadioButton1Compose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="8dp"
+        android:text="@string/menu_btnApp4RadioButton1Compose" />
+
+    <Button
+        android:id="@+id/btnApp5Dialog1Compose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="8dp"
+        android:text="@string/menu_btnApp5Dialog1Compose" />
+
+    <Button
+        android:id="@+id/btnApp6Navigation1Compose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="8dp"
+        android:text="@string/menu_btnApp6Navigation1Compose" />
+
+</LinearLayout>
